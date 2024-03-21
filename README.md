@@ -5,8 +5,8 @@
 <p>-React-router-dom</p>
 <p>-React-transition-group</p>
 <br/>
-<img src="./public/Main.svg"/>
-<img src="./public/Post.svg"/>
-<img src="./public/error.svg"/>
-<img src="./public/about.svg"/>
-<img src="./public/Auth.svg"/>
+<img src="./public/Main.png"/>
+<img src="./public/Post.png"/>
+<img src="./public/error.png"/>
+<img src="./public/about.png"/>
+<img src="./public/Auth.png"/>
