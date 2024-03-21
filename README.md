@@ -16,7 +16,7 @@
 <img src="./public/error.png"/>
 <h1>About</h1>
 <br/>
-<img src="./public/about.png"/>
+<img src="./public/About.png"/>
 <h1>Auth</h1>
 <br/>
 <img src="./public/Auth.png"/>
