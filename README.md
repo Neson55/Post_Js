@@ -5,5 +5,4 @@
 <p>-Axios</p>
 <p>-React-router-dom</p>
 <p>-React-transition-group</p>
-
-
+<img src="./public/vite.svg"/>
