@@ -1,4 +1,4 @@
-<h1 align="center">Neson's Post from jsonplaceholder.typicode.com</a></h1>
+<h1 align="center">Neson's Posts from jsonplaceholder.typicode.com</a></h1>
 <h1>Stack</h1>
 <br/>
 <p>-React</p>
